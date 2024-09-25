@@ -14,7 +14,7 @@ This is a web scraping tool designed to collect blog posts from various websites
 Set up you mongodb instance. And add the connection URL to the .env file.
 
 ```sh
-git clone ?
+git clone https://github.com/MiTiX1/athena.git
 ```
 
 ```sh
